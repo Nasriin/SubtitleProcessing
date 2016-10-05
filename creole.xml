@@ -1,0 +1,10 @@
+<CREOLE-DIRECTORY>
+	<CREOLE>
+		<RESOURCE>
+			<NAME>My srt Document Format</NAME>
+			<CLASS>majid.SubtitleReader</CLASS>
+			<AUTOINSTANCE />
+			<PRIVATE />
+		</RESOURCE>
+	</CREOLE>
+</CREOLE-DIRECTORY>
